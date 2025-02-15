@@ -4,8 +4,11 @@ This project aims to predict wildfire occurrences in Brazil using time series an
 Features
 
 Data Source: **INPE weather and fire data**: https://terrabrasilis.dpi.inpe.br/queimadas/bdqueimadas/
+
 Preprocessing: Handling missing values, feature engineering, and time aggregation
+
 Models: soon
+
 Visualization: Risk maps and interactive dashboards
 
 ## Goal
