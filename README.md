@@ -1,7 +1,8 @@
 ## Wildfire Prediction in Brazil using Time Series
 
 This project aims to predict wildfire occurrences in Brazil using time series analysis with meteorological data from **INPE**. By leveraging historical weather patterns, fire occurrences, and machine learning models, the system forecasts potential wildfire risks to aid in prevention and mitigation efforts.
-Features
+
+## Features
 
 Data Source: **INPE weather and fire data**: https://terrabrasilis.dpi.inpe.br/queimadas/bdqueimadas/
 
